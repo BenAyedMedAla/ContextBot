@@ -1,0 +1,404 @@
+
+=========================
+FICHIER DE CONNAISSANCES AGRICOLES POUR CHATBOT
+=========================
+
+SECTION 1 : CULTURES & PLANTES
+-------------------------
+1.1 Types de cultures :
+- CÉRÉALES : Blé (semis en automne ou printemps, récolte en été, besoins en azote), maïs (climat chaud, semis en avril-mai), orge, riz (inondation partielle, semis en mai).
+- LÉGUMES : Tomate (sol riche, arrosage régulier, tuteurage), carotte (sol léger, semis en lignes, éclaircissage nécessaire), pomme de terre (plantation mars-avril, buttage important).
+- FRUITS : Pommier (taille annuelle, traitement préventif contre tavelure), agrumes (climat doux, irrigation régulière), fraise (paillage, sensibilité aux nématodes).
+- INDUSTRIELLES : Coton (zones chaudes, arrosage goutte-à-goutte conseillé), betterave sucrière (semis précoce, sol riche), tournesol (peu exigeant, résistant à la sécheresse).
+
+1.2 Techniques de culture :
+- SEMIS : Respect des dates locales, semoirs adaptés, densité de semis selon la culture.
+- IRRIGATION : Goutte-à-goutte, aspersion, subirrigation. Choix selon culture, climat, sol.
+- FERTILISATION : Engrais azotés pour croissance, phosphore pour racines, potassium pour résistance.
+- ROTATION : Ex : blé → pois → colza, pour éviter épuisement du sol.
+
+1.3 Sols :
+- Test de pH (optimal entre 6 et 7 pour la plupart des cultures).
+- Amélioration par apport de compost, fumier ou amendements calcaires.
+- Techniques de conservation : couverture végétale, labour réduit.
+
+SECTION 2 : ÉLEVAGE
+-------------------------
+2.1 Espèces courantes :
+- Bovins : lait (race Holstein, alimentation riche en protéines), viande (Charolaise, pâturage extensif).
+- Ovins : élevage mixte laine/viande, tonte annuelle.
+- Caprins : lait de chèvre, logement ventilé indispensable.
+- Volaille : poulets de chair (croissance rapide), pondeuses (cycle de ponte, éclairage artificiel).
+- Apiculture : ruches bien exposées, surveillance varroa.
+
+2.2 Besoins :
+- ALIMENTATION : Fourrage, céréales, minéraux. Eau propre disponible.
+- SANTÉ : Vaccins, déparasitage, suivi vétérinaire.
+- LOGEMENT : Aéré, propre, protection contre le froid/chaud.
+- REPRODUCTION : Insémination, sélection génétique.
+
+SECTION 3 : MALADIES & RAVAGEURS
+-------------------------
+3.1 Identification :
+- Blé : rouille jaune (taches sur feuilles), fusariose (épis blancs).
+- Tomate : mildiou (feuilles noires, fruits tachés), pucerons.
+- Vache : mammite (inflammation pis), parasitose digestive.
+
+3.2 Lutte :
+- Produits phytosanitaires : respecter les doses, délais avant récolte.
+- Biocontrôle : trichogrammes contre pyrales, purins (ortie, prêle).
+- Prévention : rotation, variétés résistantes, hygiène.
+
+SECTION 4 : CLIMAT ET MÉTÉO
+-------------------------
+- Adéquation culture-climat (ex : riz en zones humides).
+- Gestion de la sécheresse : paillage, irrigation efficiente.
+- Outils : stations météo locales, apps météo agricole (ex : Météus, Arvalis).
+
+SECTION 5 : MÉCANISATION
+-------------------------
+- Tracteur (entretien régulier, choix selon puissance).
+- Semoirs, moissonneuses, pulvérisateurs.
+- Agriculture de précision : GPS, drones, capteurs de sol.
+- Réduction du travail du sol : semis direct, strip-till.
+
+SECTION 6 : ÉCONOMIE
+-------------------------
+- Coût d’une culture (intrants, main d’œuvre, amortissement matériel).
+- Calcul de marge brute et nette.
+- Aides : PAC (paiement de base, MAEC), prêts bonifiés.
+- Circuits de commercialisation : vente directe, coopératives.
+
+SECTION 7 : RÈGLEMENTATION
+-------------------------
+- Enregistrement des traitements (cahier phyto).
+- Bien-être animal (transport, logement, alimentation).
+- Certification BIO : conversion 2 à 3 ans, interdiction OGM.
+
+SECTION 8 : FAQ AGRICULTEUR
+-------------------------
+- Quelle culture planter en zone semi-aride ?
+- Comment traiter naturellement le mildiou ?
+- Quand faire le premier pâturage au printemps ?
+- Quel est le rendement moyen d’un hectare de maïs ?
+- Puis-je cultiver bio sur terrain conventionnel ?
+
+SECTION 9 : RESSOURCES
+-------------------------
+- INRAE : www.inrae.fr
+- FranceAgriMer : www.franceagrimer.fr
+- Chambres d’agriculture : www.chambres-agriculture.fr
+- Plateformes météo : www.meteo.fr, www.agroclim.fr
+- Fiches pratiques : www.terresinovia.fr, www.arvalis-infos.fr
+
+Saison : Printemps
+  - Tomate
+    Besoins : Climat chaud, sol riche en matière organique, arrosage régulier
+    Problèmes potentiels : Mildiou, pucerons, nématodes, sensibilité au gel
+  - Fraise
+    Besoins : Soleil, sol bien drainé, riche en humus
+    Problèmes potentiels : Oïdium, pourriture grise, limaces
+
+Saison : Été
+  - Poivron
+    Besoins : Chaleur, soleil, arrosage régulier
+    Problèmes potentiels : Mouches, pucerons, pourriture apicale
+  - Melon
+    Besoins : Climat chaud, sol léger et bien drainé
+    Problèmes potentiels : Oïdium, excès d'eau, attaques d'insectes
+
+Saison : Automne
+  - Chou
+    Besoins : Sol riche, frais, bonne humidité
+    Problèmes potentiels : Altises, limaces, mouches du chou
+  - Carotte
+    Besoins : Sol léger, profond, sans cailloux
+    Problèmes potentiels : Mouche de la carotte, sol compact
+
+Saison : Hiver
+  - Épinard
+    Besoins : Sol riche et frais, semi-ombre
+    Problèmes potentiels : Montée en graine, mildiou
+  - Poireau
+    Besoins : Sol fertile, arrosage modéré
+    Problèmes potentiels : Teigne du poireau, rouille
+
+🌱 Besoins de la fraise :
+Soleil :
+
+✅ Les fraisiers ont besoin d'au moins 6 heures de soleil direct par jour pour produire des fruits sucrés et abondants.
+
+🌤 Solution : Plantez-les dans un endroit bien exposé au sud ou sud-ouest, à l’abri des vents froids.
+
+Sol bien drainé :
+
+✅ Un sol qui ne retient pas trop l’eau est crucial. L'excès d'humidité peut entraîner la pourriture des racines.
+
+🛠 Solution :
+
+Ajoutez du sable ou du compost pour alléger le sol.
+
+Utilisez des buttes ou des planches surélevées pour améliorer le drainage.
+
+Riche en humus :
+
+✅ Le sol doit contenir beaucoup de matière organique (compost, fumier bien décomposé).
+
+🌱 Solution : Avant la plantation, mélangez du compost mûr ou du fumier bien composté à la terre.
+
+🐛 Problèmes potentiels de la fraise et solutions :
+1. Oïdium (maladie fongique – poudre blanche sur les feuilles) :
+Cause : Humidité et chaleur élevées, mauvaise circulation de l’air.
+
+Conséquences : Déformation des feuilles, ralentissement de la croissance, fruits de mauvaise qualité.
+
+✅ Prévention & traitement :
+
+Plantez en respectant des espacements suffisants.
+
+Arrosez au pied, évitez de mouiller le feuillage.
+
+Utilisez des fongicides naturels comme :
+
+Bicarbonate de soude (1 cuillère à café/L d’eau + savon noir)
+
+Purin de prêle ou de lait dilué
+
+Retirez les feuilles atteintes rapidement.
+
+2. Pourriture grise (Botrytis cinerea) :
+Cause : Trop d’humidité, fruits au contact du sol.
+
+Conséquences : Fruits moisis, grisâtres, inutilisables.
+
+✅ Prévention & traitement :
+
+Utilisez du paillage (paille, copeaux de bois) pour isoler les fruits du sol.
+
+Aérez les plants et retirez les parties mortes.
+
+Ne pas sur-arroser.
+
+Traitez avec du purin d’ortie ou des produits fongicides bio.
+
+3. Limaces :
+Cause : Environnement humide, présence de cachettes (paillis épais, pierres).
+
+Conséquences : Fruits et feuilles mangés, pertes importantes.
+
+✅ Prévention & traitement :
+
+Posez des pièges à bière ou utilisez des coquilles d’œuf concassées autour des plants.
+
+Ramassez manuellement les limaces en soirée.
+
+Utilisez un paillage sec (chanvre, lin) qui gêne leur déplacement.
+
+En dernier recours : granulés anti-limaces bio (à base de phosphate ferrique).
+
+🍈 Culture du melon
+🌱 Besoins du melon :
+Climat chaud :
+
+✅ Le melon est une plante très exigeante en chaleur. Il lui faut des températures entre 20°C et 30°C.
+
+🌡️ Il ne supporte ni le gel ni les fortes variations de température.
+
+🌞 Solution :
+
+Plantez-le après les dernières gelées, généralement à partir de mi-avril à mai selon votre région.
+
+Si nécessaire, utilisez des châssis, tunnels ou voiles de forçage pour maintenir une température élevée en début de saison.
+
+Privilégiez une exposition plein sud.
+
+Sol léger et bien drainé :
+
+✅ Le melon pousse mal dans les sols lourds ou argileux.
+
+Il préfère les sols sableux, riches en humus et drainants.
+
+🛠 Solution :
+
+Aérez le sol avec du compost mûr, du sable grossier ou du terreau.
+
+Privilégiez la culture sur buttes ou en planches surélevées pour améliorer le drainage.
+
+Apportez du fumier bien décomposé à l’automne pour enrichir le sol.
+
+🐛 Problèmes potentiels du melon et solutions :
+1. Oïdium (maladie fongique – poudre blanche sur feuilles) :
+Cause : Chaleur + humidité, mauvaise circulation d’air.
+
+Conséquences : Croissance ralentie, fruits plus petits.
+
+✅ Prévention & traitement :
+
+Respecter les espacements entre les plants.
+
+Ne pas arroser le feuillage.
+
+Utiliser du bicarbonate de soude (1 c. à café/L d’eau + 1 c. à café de savon noir).
+
+Appliquer du purin de prêle ou de lait dilué.
+
+Couper les feuilles atteintes.
+
+2. Excès d'eau :
+Cause : Trop d’arrosage ou sol mal drainé.
+
+Conséquences : Racines asphyxiées, fruits fendus ou pourris.
+
+✅ Prévention & traitement :
+
+Arrosez modérément mais profondément, uniquement quand la terre est sèche en surface.
+
+Réduisez les arrosages dès que les fruits grossissent pour concentrer les sucres.
+
+Utilisez du paillage (paille, chanvre) pour conserver l’humidité sans excès.
+
+3. Attaques d'insectes (pucerons, acariens, mouches, etc.) :
+Cause : Chaleur, humidité, faible biodiversité dans la parcelle.
+
+Conséquences : Feuilles déformées, transmission de virus, baisse de rendement.
+
+✅ Prévention & traitement :
+
+Plantez des plantes compagnes (œillet d’Inde, basilic) pour repousser les insectes.
+
+Pulvérisez du savon noir dilué (5 à 10 ml/L) contre les pucerons.
+
+Introduisez des auxiliaires naturels comme les coccinelles.
+
+Surveillez régulièrement les plants pour agir rapidement.
+
+Culture de la carotte
+🌱 Besoins de la carotte :
+Sol léger :
+
+✅ La carotte a besoin d’un sol meuble et aéré, car sa racine est longue et fragile.
+
+🌱 Un sol lourd ou argileux peut déformer ou bloquer sa croissance.
+
+Solution :
+
+Travaillez le sol en profondeur avec une fourche-bêche, sans le retourner complètement.
+
+Ajoutez du sable grossier ou du compost tamisé pour l’alléger.
+
+Sol profond :
+
+✅ La racine de la carotte peut atteindre 20 cm ou plus selon la variété.
+
+Solution :
+
+Semez dans un sol ameubli sur 25 à 30 cm de profondeur.
+
+Si votre sol est peu profond, utilisez des carrés potagers surélevés ou choisissez des variétés courtes (comme les carottes rondes).
+
+Sol sans cailloux :
+
+✅ Les cailloux provoquent des carottes fourchues ou tordues.
+
+Solution :
+
+Tamisez la terre dans la zone de semis.
+
+Évitez d’ajouter du fumier frais, car il peut aussi provoquer des malformations.
+
+🐛 Problèmes potentiels et solutions :
+1. Mouche de la carotte (Psila rosae) :
+Cause : Ce petit insecte pond ses œufs à la base des plants. Les larves creusent des galeries dans les racines.
+
+Symptômes : Carottes creusées, brunes à l’intérieur, déformées ou inutilisables.
+
+✅ Solutions :
+
+Rotation des cultures : Ne replantez pas des carottes au même endroit pendant au moins 3 ans.
+
+Filet anti-insectes : Posez un voile fin (type P17) dès le semis, surtout de mai à septembre.
+
+Association bénéfique :
+
+Semez avec oignons, poireaux ou ail pour masquer l’odeur des carottes.
+
+Pas d’éclaircissage brutal : Le parfum des racines coupées attire la mouche.
+
+Pulvérisation naturelle : Utilisez du purin de fougère ou du vinaigre blanc dilué pour repousser.
+
+2. Sol compact :
+Cause : Tassement du sol (pluie, passages répétés), ou terre naturellement lourde.
+
+Symptômes : Mauvais développement racinaire, carottes petites ou fourchues.
+
+✅ Solutions :
+
+Décompactage régulier du sol, sans le retourner (fourche aératrice).
+
+Ajouter compost bien décomposé, sable ou tourbe pour ameublir.
+
+Pratique du semis sur butte pour un sol plus aéré.
+
+
+ Culture du poireau
+🌱 Besoins du poireau :
+Sol fertile :
+
+✅ Le poireau est une plante gourmande en nutriments, surtout en azote.
+
+Il préfère un sol profond, bien travaillé, riche en humus et en matière organique.
+
+Solution :
+
+Apportez du fumier bien décomposé ou du compost avant plantation (pas de fumier frais).
+
+Ameublissez le sol en profondeur (30 cm).
+
+Pratiquez une rotation des cultures (évitez les alliacées avant les poireaux).
+
+Arrosage modéré :
+
+✅ Le poireau ne supporte ni la sécheresse prolongée, ni l’excès d’eau stagnant.
+
+Solution :
+
+Arrosez régulièrement mais sans excès, surtout après plantation et lors des fortes chaleurs.
+
+Paillez le sol pour conserver l'humidité et éviter le dessèchement.
+
+Évitez les arrosages sur le feuillage pour limiter les maladies fongiques.
+
+🐛 Problèmes potentiels et solutions :
+1. Teigne du poireau (Acrolepiopsis assectella) :
+Cause : Papillon nocturne dont la chenille creuse des galeries dans les feuilles.
+
+Symptômes : Feuilles trouées, jaunissantes, déformées, plantes affaiblies.
+
+✅ Solutions :
+
+Voile anti-insectes dès la plantation (surtout entre avril et septembre).
+
+Supprimez régulièrement les feuilles atteintes.
+
+Rotation des cultures : éviter de replanter des poireaux, oignons ou ail au même endroit chaque année.
+
+Introduisez ou attirez des auxiliaires naturels (oiseaux, syrphes).
+
+Pulvérisation de purin de tomates ou de Bacillus thuringiensis (insecticide bio) au stade larvaire.
+
+2. Rouille du poireau (champignon) :
+Cause : Humidité élevée + chaleur → développement de spores fongiques.
+
+Symptômes : Petites taches orange sur les feuilles, affaiblissement des plants.
+
+✅ Solutions :
+
+Espacer correctement les plants pour une bonne aération.
+
+Éviter d’arroser le feuillage.
+
+Couper les feuilles infectées dès l’apparition des taches.
+
+En prévention, pulvérisez du purin d’ortie ou de prêle.
+
+Évitez les excès d’azote (qui favorisent les maladies fongiques).
