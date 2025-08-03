@@ -1,66 +1,126 @@
-🔍 Questions de test pour le chatbot agricole
-Voici une liste de questions types permettant de tester la performance et la pertinence du chatbot. Elles couvrent différentes sections de connaissances (cultures, élevage, maladies, irrigation, réglementation, etc.). 
+# 🌾 Agricultural Chatbot
 
-🌱 Cultures et Plantes
+An intelligent chatbot that uses Google’s **Gemini AI** to answer agriculture-related questions. It supports both direct Docker usage and local customization with easy deployment.
 
-Quels sont les besoins de la fraise au printemps ?
+---
 
-Comment prévenir l’oïdium sur les melons ?
+## 🚀 Features
 
-Quelle est la meilleure période pour semer les carottes ?
+* 🌐 Natural language Q\&A on agricultural topics
+* 🤖 Powered by **LangChain** + **Google Generative AI (Gemini 2.0 Flash)**
+* 🔐 Uses secure environment variable for your API key
+* 🐳 Runs in **Docker** — no local setup required
 
-Comment améliorer un sol trop compact pour les carottes ?
+---
 
-Le poireau craint-il l’excès d’eau ?
+## ✅ Quick Start
 
-Quelles cultures sont adaptées à l’automne ?
+### Option 1: **Run Directly with Docker (No Build Required)**
 
-Peut-on cultiver du riz dans un climat sec ?
+> Ideal if you just want to test or use the chatbot without modifying the knowledge base.
 
-🐄 Élevage
+Make sure you have Docker installed. You can [download Docker Desktop](https://www.docker.com/products/docker-desktop/) for Windows or Mac.
 
-Quelle est la différence entre bovins viande et bovins lait ?
+1. Get your Google API Key from [Google AI Studio](https://makersuite.google.com/app).
+2. Replace `"your-api-key"` with your actual key and run:
 
-Quels sont les besoins essentiels des chèvres ?
+```bash
+docker run -p 5000:8000 -e API_KEY="your-api-key" alabenayed/agricultural-chatbot
+```
 
-Comment assurer le bien-être des volailles ?
+> The chatbot will be available at: [http://localhost:5000/ask](http://localhost:5000/ask)
 
-Que faire pour prévenir la mammite chez les vaches ?
+💡 **If you don’t have an API key**, you can use this test key (limited quota):
 
-🐛 Maladies et Ravageurs
+```
+AIzaSyAwRQZ2Rb9VfWmTWta8aqk_6YJX_1KdYrw
+```
 
-Quels sont les symptômes de la rouille jaune sur le blé ?
+---
 
-Comment lutter naturellement contre le mildiou de la tomate ?
+### Option 2: **Modify the `.txt` Knowledge Base**
 
-Que faire contre la mouche de la carotte ?
+> Use this if you want to change or extend the chatbot's knowledge.
 
-Quels traitements bio utiliser contre la pourriture grise ?
+1. Clone the repository:
 
-💧 Irrigation et Sols
+```bash
+git clone https://github.com/<your-username>/agricultural-chatbot.git
+cd agricultural-chatbot
+```
 
-Quels sont les différents types d’irrigation ?
+2. Modify the `.txt` files in the knowledge base folder as needed.
 
-Quel est le pH idéal pour la culture du maïs ?
+3. Rebuild the Docker container:
 
-Comment améliorer un sol argileux pour les légumes ?
+```bash
+docker build -t agricultural-chatbot .
+docker run -p 5000:8000 -e API_KEY="your-api-key" agricultural-chatbot
+```
 
-☁️ Climat et météo
-Quelle culture choisir en zone semi-aride ?
+---
 
-Quels outils permettent d’anticiper les aléas climatiques ?
+## 📬 How to Ask a Question
 
-🚜 Mécanisation
+You can interact with the chatbot in two ways:
 
-Quel matériel est recommandé pour semer le blé ?
+* **From a frontend interface** (if included).
+* **Using Postman or CURL**:
 
-À quoi sert le strip-till ?
+Send a POST request to:
 
-💶 Économie et Réglementation
+```
+http://localhost:5000/ask
+```
 
-Comment calculer la marge brute d’une culture ?
+With JSON body:
 
-Quelles aides agricoles sont disponibles via la PAC ?
+```json
+{
+  "messageText": "quand on cultive fraise ?"
+}
+```
 
-Peut-on cultiver bio sur une parcelle ayant reçu des traitements conventionnels ?
+---
 
+## 🔍 Test Questions
+
+Here are some sample questions to test different categories:
+
+### 🌱 Cultures et Plantes
+
+* Quels sont les besoins de la fraise au printemps ?
+* Quelle est la meilleure période pour semer les carottes ?
+* Le poireau craint-il l’excès d’eau ?
+
+### 🐄 Élevage
+
+* Quelle est la différence entre bovins viande et bovins lait ?
+* Que faire pour prévenir la mammite chez les vaches ?
+
+### 🧻 Maladies et Ravageurs
+
+* Quels sont les symptômes de la rouille jaune sur le blé ?
+* Comment lutter naturellement contre le mildiou de la tomate ?
+
+### 💧 Irrigation et Sols
+
+* Quels sont les différents types d’irrigation ?
+* Comment améliorer un sol argileux pour les légumes ?
+
+### ☁️ Climat et Météo
+
+* Quelle culture choisir en zone semi-aride ?
+* Quels outils permettent d’anticiper les aléas climatiques ?
+
+### 🚜 Mécanisation
+
+* Quel matériel est recommandé pour semer le blé ?
+* À quoi sert le strip-till ?
+
+### 💶 Économie et Réglementation
+
+* Comment calculer la marge brute d’une culture ?
+* Quelles aides agricoles sont disponibles via la PAC ?
+
+---
