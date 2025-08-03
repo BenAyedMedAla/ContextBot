@@ -30,13 +30,6 @@ docker run -p 5000:8000 -e API_KEY="your-api-key" alabenayed/agricultural-chatbo
 
 > The chatbot will be available at: [http://localhost:5000/ask](http://localhost:5000/ask)
 
-💡 **If you don’t have an API key**, you can use this test key (limited quota):
-
-```
-AIzaSyAwRQZ2Rb9VfWmTWta8aqk_6YJX_1KdYrw
-```
-
----
 
 ### Option 2: **Modify the `.txt` Knowledge Base**
 
